@@ -1,4 +1,4 @@
-package com.mariokevin.booksfinder
+package com.mariokevin.booksfinder.ui.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
